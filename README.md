@@ -11,5 +11,8 @@ Hi, I am a Financial Risk Manager:
 - Fintech
 - Climate Change
 
+### Codes to Share:
+* [Convert data of BCCR from the square form to Time Serie](https://github.com/LiangYunHsuehLin/datosBCCR_Cuadrados_a_Series) (In Spanish)
+
 ### Contact:
 [E-mail](mailto:lhsueh8@gmail.com) | [Facebook](https://www.facebook.com/liang.hsueh.37) | [LinkedIn](https://www.linkedin.com/in/liangyunhsueh/) | [Twitter](https://twitter.com/LiangHsueh)
