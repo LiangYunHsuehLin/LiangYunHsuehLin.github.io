@@ -11,4 +11,5 @@ Hi, I am a Financial Risk Manager:
 - Fintech
 - Climate Change
 
-[Facebook](https://www.facebook.com/liang.hsueh.37)|[LinkedIn](https://www.linkedin.com/in/liangyunhsueh/)|[Twitter](https://twitter.com/LiangHsueh)
+### Contact:
+[E-mail](lhsueh8@gmail.com) | [Facebook](https://www.facebook.com/liang.hsueh.37) | [LinkedIn](https://www.linkedin.com/in/liangyunhsueh/) | [Twitter](https://twitter.com/LiangHsueh)
